@@ -33,8 +33,6 @@ const ConnectButton = styled(WalletDialogButton)`
   font-weight: bold;
 `;
 
-const logo = require('./OOLogo.png');
-
 const MintContainer = styled.div``; // add your owns styles here
 
 export interface HomeProps {
