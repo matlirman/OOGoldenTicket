@@ -170,7 +170,7 @@ const Home = (props: HomeProps) => {
       </div>
       <div>
         <h1 style={{fontSize: 50, color: "#FE0002", textAlign:"center", fontFamily: "Squada One"}}>
-          Your Entrance into the Otakuverse... Are you ready?
+          Chapter 2 Cover Art NFTs - Check out behind the scenes at our comic website!
         </h1>
       </div>
 
