@@ -39,7 +39,7 @@ export const Header = ({ candyMachine }: HeaderProps) => {
                 color="textPrimary"
                 style={{ fontWeight: 'bold' }}
               >
-                {getMintPrice(candyMachine)}
+                100 $OTAKU
               </Typography>
             </Grid>
           </Grid>
