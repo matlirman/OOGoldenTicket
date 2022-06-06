@@ -170,7 +170,7 @@ const Home = (props: HomeProps) => {
       </div>
       <div>
         <h1 style={{fontSize: 50, color: "#FE0002", textAlign:"center", fontFamily: "Squada One"}}>
-          Otaku Origins Chapter 3 Cover Art NFTs - Make sure to check out behind the scenes at our comic website!
+          Otaku Origins Chapter 3 Cover Art NFTs - Check out behind the scenes at our comic website!
         </h1>
       </div>
 
